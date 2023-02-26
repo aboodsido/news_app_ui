@@ -1,6 +1,7 @@
 # news_app
 
 A new Flutter project.
+It is a News Application as interfaces only, and it can be linked to a News API 
 
 ## Getting Started
 
